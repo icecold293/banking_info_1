@@ -52,15 +52,15 @@ Each option calls a dedicated function:
 ```bash
 # Compile
 g++ -
-
+banking_info.cpp
 # Run
-./banking
+banking_info.cpp
 ```
 
 On Windows:
 ```bash
 g++ 
-banking.exe
+banking_info.cpp
 ```
 
 ---
