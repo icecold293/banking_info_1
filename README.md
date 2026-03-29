@@ -51,7 +51,7 @@ Each option calls a dedicated function:
 
 ```bash
 # Compile
-g++ -o banking main.cpp
+g++ -
 
 # Run
 ./banking
@@ -59,7 +59,7 @@ g++ -o banking main.cpp
 
 On Windows:
 ```bash
-g++ -o banking.exe main.cpp
+g++ 
 banking.exe
 ```
 
@@ -67,13 +67,7 @@ banking.exe
 
 ## 📁 Project Structure
 
-```
-simple-banking-cpp/
-│
-├── main.cpp       # All source code
-└── README.md      # Project documentation
-```
-
+vityarthi/banking_info.cpp
 ---
 
 ## 🔍 Code Highlights
